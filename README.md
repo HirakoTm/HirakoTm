@@ -2,7 +2,7 @@
   <img src="https://discord.c99.nl/widget/theme-4/570525683923550218.png" width="300"/>
 </div>
 <br>
-<p align="center">I'm a student who codes for fun, I like to play with things which suits my interests. I have a moderate BackEnd experience mainly in Python, and My SQl-for DBMS. I have a good experience of FrontEnd in HTML and CSS and learning JS eventually.
+<p align="center">I'm a student who codes for fun, I like to play with things which suits my interests. I have a moderate BackEnd experience mainly in Python, and My SQl-for DBMS. I have a good experience of FrontEnd in HTML and CSS and gradually learning JS.
   
 <div align="center">
 
